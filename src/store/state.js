@@ -8,4 +8,4 @@ export const data = [
   { id: 7, msg: 'greetings', qty: 1, type: null }
 ];
 
-export const userSelections = {};
+export const userSelection = {};
